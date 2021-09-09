@@ -1,0 +1,63 @@
+.elementor-7 .elementor-element.elementor-element-3d7cd3f.elementor-column > .elementor-widget-wrap{justify-content:flex-end;}.elementor-7 .elementor-element.elementor-element-dee10e9 .elementor-button{font-family:"Lexend Exa", Sans-serif;font-size:16px;font-weight:600;text-transform:uppercase;fill:var( --e-global-color-249d793 );color:var( --e-global-color-249d793 );background-color:var( --e-global-color-primary );border-radius:10px 10px 10px 10px;}.elementor-7 .elementor-element.elementor-element-dee10e9 .elementor-button:hover, .elementor-7 .elementor-element.elementor-element-dee10e9 .elementor-button:focus{background-color:var( --e-global-color-5c4981f );}@media(max-width:1024px){.elementor-7 .elementor-element.elementor-element-3d7cd3f.elementor-column > .elementor-widget-wrap{justify-content:flex-end;}}@media(max-width:767px){.elementor-7 .elementor-element.elementor-element-3d7cd3f.elementor-column > .elementor-widget-wrap{justify-content:center;}}/* Start custom CSS for button, class: .elementor-element-dee10e9 */.btn__continue-shoping{
+    max-width: 500px;
+}/* End custom CSS */
+/* Start custom CSS for text-editor, class: .elementor-element-38cc3553 */.page-id-7 #calc_shipping_country_field{
+    display: none;
+}
+
+.page-id-7 .shop_table.cart td{
+    min-height: 48px;
+    height: auto;
+}
+
+.page-id-7 .woocommerce-cart-form tr .actions{
+    background-color: white;
+    border-right: none;
+    border-left: none;
+}
+
+.page-id-7 .shop_table.cart{
+    font-family: "Montserrat";
+    font-size: 18px;
+    text-align: center;
+}
+
+.page-id-7 .shop_table.cart td.product-name{
+    text-align: left;
+}
+
+.page-id-7 .cart_totals .woocommerce-shipping-calculator{
+    display: none;
+}
+
+@media(max-width: 767px){
+    .page-id-7 .cart_totals h2{
+        text-align: center;
+    }
+    
+    .page-id-7 .cart_totals td{
+        font-size: 16px;
+    }
+}
+
+.page-id-7 .cart_totals .shop_table td{
+    background-color: white;
+}
+
+.page-id-7 .cart_totals .shop_table tr:last-child > *{
+    border-bottom: none;
+}
+
+.page-id-7 .shop_table .actions{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.page-id-7 .cart_totals .wc-proceed-to-checkout .checkout-button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}/* End custom CSS */
+/* Start custom CSS for section, class: .elementor-element-15c548ba */p.return-to-shop{
+    display: none;
+}/* End custom CSS */
